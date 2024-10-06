@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a data enthusiast with a strong foundation i
 - 🔢 Doing mathematics in my free time
 
 ## 📫 Let's Connect!
-- *LinkedIn*: linkedin.com/in/biswajitsasmal
+- *LinkedIn*: https://www.linkedin.com/in/biswajitsasmal
 - *Email*: [sasmalbiswajit27@gmail.com]
 
 Feel free to explore my repositories and projects, and don’t hesitate to reach out if you’d like to collaborate or discuss anything data-related!
